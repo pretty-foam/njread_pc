@@ -17,7 +17,7 @@
                           </div>
                           <div class="QRcode">
                             <img src="./assets/home_one_code.png" alt="" width="240" height="240">
-                          </div>
+                          </div>  
                       </div>
                 </div>
           </div>
